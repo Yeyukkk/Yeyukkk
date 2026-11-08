@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.1",
+  "project": "ALPHA01",
+  "workflow_id": "ALPHA01_US_EQUITY_RESEARCH",
+  "source_as_of": "2026-11-08",
+  "classification": "PUBLIC_SAFE_METADATA_ONLY",
+  "description": "初始空索引；不代表已有研究/数据完成同步。新增文件经安全审查和 SHA-256 校验后登记。",
+  "assets": [],
+  "external_workspaces": {
+    "muse": "NOT_SYNCED",
+    "codex": "NOT_SYNCED",
+    "gpt": "IN_CHAT_ONLY"
+  },
+  "restrictions": [
+    "NO_SECRETS",
+    "NO_PRIVATE_ACCOUNTS",
+    "NO_UNLICENSED_RAW_MARKET_DATA",
+    "NO_UNREVIEWED_ARCHIVES"
+  ]
+}
